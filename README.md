@@ -1,4 +1,4 @@
-# Detector-de-Sonol-ncia---Vis-o-Computacional
+# Detector-de-Sonolencia---Visao-Computacional
 Sistema de detecção de sonolência em tempo real utilizando visão computacional e webcam, desenvolvido em Python com OpenCV e MediaPipe.
 
 O projeto utiliza o modelo Face Mesh para mapear pontos faciais e calcula o EAR (Eye Aspect Ratio) para identificar quando os olhos permanecem fechados por um período prolongado, emitindo um alerta visual de possível sonolência.
